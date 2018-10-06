@@ -1,0 +1,11 @@
+{
+  "name": "sender",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "doasync": "^2.0.1",
+    "pc-ble-driver-js": "^2.4.2",
+    "promisify-node": "^0.5.0"
+  }
+}
